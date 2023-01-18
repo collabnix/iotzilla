@@ -24,6 +24,7 @@ It's great opportunity for community members to learn, collaborate and contribut
 |-----|----------|------------|-------|
 | [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | NVIDIA Jetson Nano | 1 |
 | [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | Raspberry Pi | 2 |
+| [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | Camera Module | 3 |
 
 
 ## Contribution Proposal
