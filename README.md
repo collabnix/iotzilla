@@ -1,6 +1,6 @@
 # IoTZilla
 
-We are aiming to bring the IoT community together, build a largest IoT Cluster and showcase it on IoT Workshop Day.
+We are aiming to bring the IoT community together, complete hands-on labs, build a largest IoT Cluster and showcase it on IoT Workshop Day.
 
 
 ## Why are we doing this?
