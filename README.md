@@ -1,6 +1,6 @@
-# IoT Workshop
+# IoTZilla
 
-We are aiming to bring IoT communities together and build a largest IoT Cluster and target to showcase it on IoT Workshop Day.
+We are aiming to bring the IoT community together, build a largest IoT Cluster and showcase it on IoT Workshop Day.
 
 
 ## Why are we doing this?
@@ -14,7 +14,7 @@ It's great opportunity for community members to learn, collaborate and contribut
 
 | Activity  |      Date      |        Time        |
 | :-------: | :------------: | :----------------: |
-| Zoom Meeting | 16th Feb 2023 |5:00 PM to 6:00 PM |
+| Building the Cluster | 10th Feb 2023 |9:00 AM onwards |
 | In-Person WorkShop | 18th Feb 2023 | 9:00 AM to 4:00 PM |
 
 
