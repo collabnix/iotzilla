@@ -24,9 +24,10 @@ It's great opportunity for community members to learn, collaborate and contribut
 |-----|----------|------------|-------|
 | [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | NVIDIA Jetson Nano | 1 |
 | [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | Raspberry Pi | 2 |
-| [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | Camera Module | 3 |
+| [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | Logitech Webcam | 3 |
 | [Tarun R Jain](https://twitter.com/TRJ_0751) | Cambrian Labs | Raspberry Pi | 1 |
 | [Tarun R Jain](https://twitter.com/TRJ_0751) | Cambrian Labs | Camera Module | 2 |
+| [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | BME 680 Sensor | 1|
 
 
 ## Contribution Proposal
