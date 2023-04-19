@@ -22,7 +22,7 @@ It's great opportunity for community members to learn, collaborate and contribut
 
 | Name | Company | Hardware | Number of Units |
 |-----|----------|------------|-------|
-| [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | NVIDIA Jetson Nano | 1 |
+| [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | NVIDIA Jetson Nano | 7 |
 | [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | Raspberry Pi | 2 |
 | [Ajeet Singh Raina](https://twitter.com/ajeetsraina) | Docker Inc | Camera Module | 3 |
 | [Tarun R Jain](https://twitter.com/TRJ_0751) | Cambrian Labs | Raspberry Pi | 1 |
